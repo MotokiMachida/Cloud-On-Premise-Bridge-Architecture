@@ -1,0 +1,2 @@
+# Cloud-On-Premise-Bridge-Architecture
+ノーコードツールとオンプレSQL Serverをセキュアに連携させるハイブリッドアーキテクチャの設計案
