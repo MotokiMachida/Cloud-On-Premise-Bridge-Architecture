@@ -34,7 +34,7 @@ sequenceDiagram
     end
 ```
 
-##技術選定の理由(PowerAuthmate,Apps DB)
+##  技術選定の理由(PowerAuthmate,Apps DB)
 
 1. メンテナンスを誰でもできるようにする
 Power Automateを選んだのは、汎用性が高いことはもちろん、特定の言語に詳しい人がいなくても「何が行われているか」が視覚的にわかりやすいからです。属人化を防ぎ、現場の誰でも保守できる状態を目指しました。
